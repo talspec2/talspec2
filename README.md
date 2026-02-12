@@ -59,7 +59,7 @@ Based on my experience in AI infrastructure and software engineering:
 * Modernized legacy ADA data structures into C++.
 
 ---
-
+<!--
 ### 📊 **GitHub Stats**
 
 <p align="center">
@@ -68,6 +68,7 @@ Based on my experience in AI infrastructure and software engineering:
 </p>
 
 ---
+-->
 
 ### 📫 **Connect with Me**
 
