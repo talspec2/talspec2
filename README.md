@@ -1,9 +1,5 @@
 # Hi there, I'm Tal Spector! 👋
 
-I am a Software Engineer and Master's student in Computational Linguistics with expertise in AI infrastructure, large-scale systems, and software development. I am passionate about developing next-generation technologies and solving complex problems in distributed computing.
-
----
-
 ### 🚀 **About Me**
 
 * 🎓 **Education:** Currently completing a **MS in Computational Linguistics** (4+1 BS/MS) at **Brandeis University** (Expected May 2026), following a double major BS in Computer Science and Linguistics.
