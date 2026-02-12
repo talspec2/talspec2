@@ -63,8 +63,8 @@ Based on my experience in AI infrastructure and software engineering:
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="Tal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talspec2&show_icons=true&theme=radical" alt="My's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talspec2&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -74,4 +74,4 @@ Based on my experience in AI infrastructure and software engineering:
 * [LinkedIn](https://linkedin.com/in/tal-spector)
 * Email: talspec2@gmail.com
 
-![Visitor Count](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=talspec2&label=Profile%20Views)
